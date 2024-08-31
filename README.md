@@ -11,6 +11,8 @@
 
     **4.** Create a netsales report on new products in 2021 _[new products2021_netsales](https://github.com/SrikarDuriseti/Advanced_Excel-Sales_Analytics_Project/blob/main/New_products2021.pdf)_
 
+    **5.** Create a report on top 5 _[best](https://github.com/SrikarDuriseti/Advanced_Excel-Sales_Analytics_Project/blob/main/top_5_best_product_sales.pdf)_ and _[least](https://github.com/SrikarDuriseti/Advanced_Excel-Sales_Analytics_Project/blob/main/Top_5_least_selling_products.pdf)_ sales products 
+
    
 **🌟 Purpose of Sales Analytics:** Sales analytics empowers businesses to keep a close eye on their sales activities and assess performance effectively.
 
@@ -26,7 +28,7 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/SrikarDuriseti/Advanced_Excel-Sales_Analytics_Project/blob/main/P%26L_by_Market.pdf)_
 
-   **3.** Conduct a comprehensive comparison between Gross Margin percentage and financial quarters with respect to subzone _[GM%_by_Quarters](https://github.com/SrikarDuriseti/Advanced_Excel-Sales_Analytics_Project/blob/main/GM%25_by_Quarters.pdf)_
+   **3.** Conduct a comprehensive comparison between Gross Margin percentage and financial quarters for subzone _[GM%_by_Quarters](https://github.com/SrikarDuriseti/Advanced_Excel-Sales_Analytics_Project/blob/main/GM%25_by_Quarters.pdf)_
 
  
 **💡 Importance of Analyzing Finance Data:** Provides a solid foundation for benchmarking against industry peers and past performance, serving as the backbone for budgeting and forecasting.
